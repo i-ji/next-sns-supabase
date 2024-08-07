@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+# The View
+Next.jsを使ってTwitter風SNSを作りました。<br >
+バックエンド部分はsupabaseを使っています。
+
 ```bash
 npm run dev
 # or
